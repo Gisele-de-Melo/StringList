@@ -1,0 +1,3 @@
+Hello, world!
+Delphi is great!
+File handling is simple!
